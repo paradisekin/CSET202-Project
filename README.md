@@ -22,7 +22,7 @@ Can view/download Invoice pdf (Only when that patient is discharged by admin).
 HOW TO RUN THIS PROJECT
 Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 Open Terminal and Execute Following Commands :
-pip install django==3.0.5
+pip install django==4.2.7
 pip install django-widget-tweaks
 pip install xhtml2pdf
 
