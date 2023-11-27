@@ -1,4 +1,4 @@
-# CSET202-Project-
+# Hospital Management System
 Functions
 Admin
 Signup their account. Then Login (No approval Required).
